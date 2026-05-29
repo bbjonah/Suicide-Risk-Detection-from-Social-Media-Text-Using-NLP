@@ -1,5 +1,7 @@
 # Suicide Risk Detection from Social Media Text Using NLP
 
+![alt text](image.jpg)
+
 An NLP-powered public health machine learning system for detecting suicide-risk signals from social media text. This project combines Natural Language Processing (NLP), psychological indicators, sentiment analysis, and machine learning to identify potential suicide risk patterns for **early-risk screening and population-level mental health surveillance**.
 
 > **Disclaimer:**  
